@@ -1,0 +1,6 @@
+streamlit==0.91.2
+json5==0.9.6
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.12.2
+gspread==5.1.1
+oauth2client==4.1.3
